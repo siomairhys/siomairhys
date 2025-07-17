@@ -1,6 +1,6 @@
 <!-- 🎮 Banner Section -->
 <p align="center">
-  <img src="https://github.com/siomairhys/siomairhys/blob/main/banner.gif?raw=true" alt="Banner" width="100%">
+  <img src="https://github.com/siomairhys/siomairhys/blob/main/Banner.gif?raw=true" alt="Banner" width="100%">
 </p>
 
 <!-- 🏷️ Badges Section -->
