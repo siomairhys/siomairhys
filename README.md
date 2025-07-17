@@ -30,6 +30,8 @@ a passion for transforming complex data into actionable insights.
 
 ### 📊 GitHub Stats
 
-![Philip's GitHub stats](https://github-readme-stats.vercel.app/api?username=siomairhys&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siomairhys&show_icons=true&count_private=true&theme=tokyonight&custom_title=YourName's%20GitHub%20Stats" width="430"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siomairhys&layout=compact&theme=tokyonight" width="350"/>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siomairhys&layout=compact)]
