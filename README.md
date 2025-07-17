@@ -49,7 +49,7 @@ Versatile Software Developer and Data Specialist specializing in full-stack deve
 
 ---
 
-### 🔗 Let's Connect
+### Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/philip-general-a941b3249/" target="_blank">
