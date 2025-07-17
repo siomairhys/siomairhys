@@ -55,7 +55,7 @@ Versatile Software Developer and Data Specialist specializing in full-stack deve
   <a href="https://www.linkedin.com/in/philip-general-a941b3249/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" />
   </a>
-  <a href="https://siomairhys.github.io/Philip-General-Portfolio.github.io/" target="_blank">
+<!--   <a href="https://siomairhys.github.io/Philip-General-Portfolio.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-visit-purple?style=flat-square&logo=web" />
-  </a>
+  </a> -->
 </p>
