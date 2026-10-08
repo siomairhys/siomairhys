@@ -24,7 +24,7 @@ Versatile Software Developer and Data Specialist specializing in full-stack deve
 🧠 Strong expertise in:
 `.NET`, `Python`, `SQL`, `Blazor`, `Flutter`, `Kotlin`, and **business intelligence tools** — with a passion for turning complex data into **insightful visual stories**.
 
-📫 Reach me at: **philipgeneral86@gmail.com**
+📫 Reach me at: **philip@helpdesksolutions.online**
 
 ---
 
